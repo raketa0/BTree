@@ -1,0 +1,34 @@
+2
+100 Ann
+35 Boris
+45 Alex
+10Ses 
+20 Cat
+28 Dasha
+38 Dora
+42 Musha
+65 Kolya
+170 Nina
+310 Masha
+130 Qred
+155 Vala
+180 Eva
+220 Velo
+270 Qwer
+450 Rama
+451 Foma
+460 Tishka
+461 Mysa
+320 Foma
+315 Creed
+452 Zero
+462 Dima
+464 Maam
+463 Dima
+465 Wowa
+470 Hka
+475 Roma
+480 Lena
+36 Zina
+12 Zeka
+15 1
